@@ -1,7 +1,7 @@
 # The 12 xpTudes 
 
 * Fine scale feedback
-** TestDrivenDevelopment via ProgrammerTests and CustomerTests (were UnitTests & AcceptanceTests)
+  *  TestDrivenDevelopment via ProgrammerTests and CustomerTests (were UnitTests & AcceptanceTests)
 ** PlanningGame
 ** WholeTeam (was OnsiteCustomer)
 ** PairProgramming
