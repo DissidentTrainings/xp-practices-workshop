@@ -24,6 +24,7 @@
   "homepage": "https://github.com/DissidentTrainings/xp-practices-workshop",
   "devDependencies": {
     "gulp": "^3.8.6",
+    "gulp-help": "^0.1.11",
     "gulp-markdown": "^0.1.2"
   }
 }
