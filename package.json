@@ -1,0 +1,25 @@
+{
+  "name": "xp-practices",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DissidentTrainings/xp-practices-workshop.git"
+  },
+  "keywords": [
+    "training",
+    "xp",
+    "materials",
+    "markdown"
+  ],
+  "author": "Sebastian Schürmann",
+  "license": "Creative Commons ",
+  "bugs": {
+    "url": "https://github.com/DissidentTrainings/xp-practices-workshop/issues"
+  },
+  "homepage": "https://github.com/DissidentTrainings/xp-practices-workshop"
+}
