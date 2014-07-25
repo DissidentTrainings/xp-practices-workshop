@@ -1,21 +1,21 @@
 # The 12 xpTudes
 
 * Fine scale feedback
-  *  TestDrivenDevelopment via ProgrammerTests and CustomerTests (were UnitTests & AcceptanceTests)
-  *  PlanningGame
-  *  WholeTeam (was OnsiteCustomer)
-  *  PairProgramming
+  *  [TestDrivenDevelopment] via [ProgrammerTests] and [CustomerTests] (were [UnitTests] & [AcceptanceTests])
+  *  [PlanningGame]
+  *  [WholeTeam] (was OnsiteCustomer)
+  *  [PairProgramming]
 * Continuous process rather than batch
-  *  ContinuousIntegration
-  *  DesignImprovement (was RefactorMercilessly)
-  *  SmallReleases
+  *  [ContinuousIntegration]
+  *  [DesignImprovement] (was RefactorMercilessly)
+  *  [SmallReleases]
 * Shared understanding
-  * SimpleDesign (DoSimpleThings, YouArentGonnaNeedIt, OnceAndOnlyOnce, SimplifyVigorously)
-  * SystemMetaphor
-  * CollectiveCodeOwnership
-  * CodingStandard or CodingConventions
+  * [SimpleDesign] ([DoSimpleThings], [YouArentGonnaNeedIt], [OnceAndOnlyOnce], [SimplifyVigorously])
+  * [SystemMetaphor]
+  * [CollectiveCodeOwnership]
+  * [CodingStandard] or [CodingConventions]
 * Programmer welfare
-  * SustainablePace (original name: FortyHourWeek)
+  * [SustainablePace] (original name: FortyHourWeek)
 
 # Practices as presented in XPE, 2nd edition
 
