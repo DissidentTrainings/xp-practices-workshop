@@ -1,86 +1,86 @@
 # The 12 xpTudes
 
 * Fine scale feedback
-  *  [TestDrivenDevelopment] via [ProgrammerTests] and [CustomerTests] (were [UnitTests] & [AcceptanceTests])
-  *  [PlanningGame]
-  *  [WholeTeam] (was OnsiteCustomer)
-  *  [PairProgramming]
+  *  [TestDrivenDevelopment](TestDrivenDevelopment.md) via [ProgrammerTests](ProgrammerTests.md) and [CustomerTests](CustomerTests.md) (were [UnitTests](UnitTests.md) & [AcceptanceTests](AcceptanceTests.md))
+  *  [PlanningGame](PlanningGame.md)
+  *  [WholeTeam](WholeTeam.md) (was OnsiteCustomer)
+  *  [PairProgramming](PairProgramming,md)
 * Continuous process rather than batch
-  *  [ContinuousIntegration]
-  *  [DesignImprovement] (was RefactorMercilessly)
-  *  [SmallReleases]
+  *  [ContinuousIntegration](ContinuousIntegration.md)
+  *  [DesignImprovement](DesignImprovementmd) (was RefactorMercilessly)
+  *  [SmallReleases](SmallReleases.md)
 * Shared understanding
-  * [SimpleDesign] ([DoSimpleThings], [YouArentGonnaNeedIt], [OnceAndOnlyOnce], [SimplifyVigorously])
-  * [SystemMetaphor]
-  * [CollectiveCodeOwnership]
-  * [CodingStandard] or [CodingConventions]
+  * [SimpleDesign](SimpleDesign.md) ([DoSimpleThings], [YouArentGonnaNeedIt], [OnceAndOnlyOnce], [SimplifyVigorously])
+  * [SystemMetaphor](SystemMetaphor.md)
+  * [CollectiveCodeOwnership](CollectiveCodeOwnership.md)
+  * [CodingStandard](CodingStandard.md) or [CodingConventions](CodingConventions.md)
 * Programmer welfare
-  * [SustainablePace] (original name: FortyHourWeek)
+  * [SustainablePace](SustainablePace.md) (original name: FortyHourWeek)
 
 # Practices as presented in XPE, 2nd edition
 
 * PrimaryPractices
-  * [SitTogether]
-  * [WholeTeam]
-  * [InformativeWorkspace]
-  * [EnergizedWork]
-  * [PairProgramming]
+  * [SitTogether](SitTogether.md)
+  * [WholeTeam](WholeTeam.md)
+  * [InformativeWorkspace](InformativeWorkspace.md)
+  * [EnergizedWork](EnergizedWork.md)
+  * [PairProgramming](PairProgramming.md)
   * [Stories](UserStories.md)
-  * [WeeklyCycle]
-  * [QuarterlyCycle]
-  * [Slack]
-  * [TenMinuteBuild]
-  * [ContinuousIntegration]
-  * [TestFirstProgramming]
-  * [IncrementalDesign]
-* [CorollaryPractices]
-  * [RealCustomerInvolvement]
-  * [IncrementalDeployment]
-  * [TeamContinuity]
-  * [ShrinkingTeams]
-  * [RootCauseAnalysis]
-  * [SharedCode]
-  * [CodeAndTests]
-  * [SingleCodeBase]
-  * [DailyDeployment]
-  * [NegotiatedScopeContract]
-  * [PayPerUse]
+  * [WeeklyCycle](WeeklyCycle.md)
+  * [QuarterlyCycle](QuarterlyCycle.md)
+  * [Slack](Slack.md)
+  * [TenMinuteBuild](TenMinuteBuild.md)
+  * [ContinuousIntegration](ContinuousIntegration.md)
+  * [TestFirstProgramming](TestFirstProgramming.md)
+  * [IncrementalDesign](IncrementalDesign)
+* CorollaryPractices
+  * [RealCustomerInvolvement](RealCustomerInvolvement)
+  * [IncrementalDeployment](IncrementalDeployment)
+  * [TeamContinuity](TeamContinuity)
+  * [ShrinkingTeams](ShrinkingTeams)
+  * [RootCauseAnalysis](RootCauseAnalysis)
+  * [SharedCode](SharedCode)
+  * [CodeAndTests](CodeAndTests)
+  * [SingleCodeBase](SingleCodeBase)
+  * [DailyDeployment](DailyDeployment)
+  * [NegotiatedScopeContract](NegotiatedScopeContract)
+  * [PayPerUse](PayPerUse)
 
 # Support Practices
 
 * Exploration
-  * [ReleasePlan]
-  * [SpikeSolution]
+  * [ReleasePlan](ReleasePlan)
+  * [SpikeSolution](SpikeSolution)
 * TestDrivenDesign
-  * [CodeUnitTestFirst]
-  * [RelentlessTesting]
-  * [NoBugDatabase]
+  * [CodeUnitTestFirst](CodeUnitTestFirst)
+  * [RelentlessTesting](RelentlessTesting)
+  * [NoBugDatabase](NoBugDatabase)
 * Architecture
-  * BridgeThread]
+  * [BridgeThread](BridgeThread)
 * Design
-  * [DontRepeatYourself], also OnceAndOnlyOnce.
-  * [EngineeringTasks]
-  * CrcCards ([WriteItOnaCard])
-  * AgileModeling - [JustEnoughDesign]
+  * [DontRepeatYourself](DontRepeatYourself), also OnceAndOnlyOnce.
+  * [EngineeringTasks](EngineeringTasks)
+  * CrcCards ([WriteItOnaCard](WriteItOnaCard))
+  * AgileModeling - [JustEnoughDesign](JustEnoughDesign)
 * Teamwork
-  * [CodeStewardship]
-  * [ProjectVelocity]
-  * [ThereMustBeFood]
-  * [TheyreJustRules]
-  * [ExtremeRoles] (TheCoach, TrackerRole, etc.)
-  * [CustomerBillOfRights]
-  * [DeveloperBillOfRights]
+  * [CodeStewardship](CodeStewardship)
+  * [ProjectVelocity](ProjectVelocity)
+  * [ThereMustBeFood](ThereMustBeFood)
+  * [TheyreJustRules](TheyreJustRules)
+  * [ExtremeRoles](ExtremeRoles) (TheCoach, TrackerRole, etc.)
+  * [CustomerBillOfRights](CustomerBillOfRights)
+  * [DeveloperBillOfRights](DeveloperBillOfRights)
 * Shared understanding
-  * [PairPromiscuously]
-  * [StandUpMeetings]
+  * [PairPromiscuously](PairPromiscuously)
+  * [StandUpMeetings](StandUpMeetings)
 ** AllEngineersInOneRoom
-  * [ContinuousIntegration] and [VersionControl]
-  * [FrequentReleases]
-  * [TheIntegrationStation]
-  * [ScopeControl]
+  * [ContinuousIntegration](ContinuousIntegration) and [VersionControl](VersionControl)
+  * [FrequentReleases](FrequentReleases)
+  * [TheIntegrationStation](TheIntegrationStation)
+  * [ScopeControl](ScopeControl)
 * SustainingBehaviours?
   * Slack time to read books, articles, experiment... (aka [OnlyPairSixHoursPerDay] ;-)
-  * [TakeRegularBreaks]
-  * [IterationRetrospective]
-  * [ExtremeProgrammingLevels]
-  * [OneButtonTesting]
+  * [TakeRegularBreaks](TakeRegularBreaks)
+  * [IterationRetrospective](IterationRetrospective)
+  * [ExtremeProgrammingLevels](ExtremeProgrammingLevels)
+  * [OneButtonTesting](OneButtonTesting)
