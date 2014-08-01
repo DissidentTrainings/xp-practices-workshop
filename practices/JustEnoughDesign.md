@@ -1,5 +1,7 @@
 # Just Enough Design
 
+Small steps in design decisions creates the chance for more decisions defered to a later stage in the development process.
+
 ## Warning
 
 Dont forget your architecture.
