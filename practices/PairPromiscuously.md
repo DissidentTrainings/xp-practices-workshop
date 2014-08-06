@@ -3,7 +3,7 @@
 Change your Pairing-Partner on a regular basis
 
 * Different ideas of development learned
-* Fast exchange in the team
+* Faster exchange in the team
 * Change teacher and apprentice position
 
 ## Activity
