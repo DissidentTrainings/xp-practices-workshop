@@ -13,7 +13,6 @@ Every Bullet Point represents a topic we will cover. The contents are a proposal
 * Stories
 * Real Customer Involvement
 * Release Planning
-* ReleasePlan
 * Decide what to do - Finding S.M.A.R.T goals for everybody
 
 
