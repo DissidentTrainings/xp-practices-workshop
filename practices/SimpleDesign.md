@@ -7,7 +7,6 @@ This might refer to the "rules" know as
 * YAGNI
 * KISS
 
-etc.
 
 ## The four commandments of simple code
 
@@ -22,6 +21,14 @@ etc.
 * Maximizes Cohesion
 * Minimizes Coupling
 * Says everything OnceAndOnlyOnce.
+
+## Activity 
+
+Discuss what simple design on code leven is. 
+
+
+* Find example rules for simple design 
+* Find examples in your own code base where you violate these rules
 
 
 ## References

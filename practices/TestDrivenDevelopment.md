@@ -32,3 +32,4 @@ Treat your test code with the same care as your production code!
 
 * [C2 Wiki: Test Driven Development](https://c2.com/cgi/wiki?TestDrivenDevelopment)
 * [http://tddaddict.blogspot.de/](http://tddaddict.blogspot.de/2014/01/pillars-of-unit-tests.html)
+* [Hames Carr](http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/)

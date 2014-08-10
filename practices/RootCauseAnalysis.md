@@ -4,7 +4,6 @@
 
 ## General Principles of RCA
 
-
 * The primary aim of root cause analysis is to identify the factors that resulted in the nature, the magnitude, the location, and the timing of the harmful outcomes (consequences) of one or more past events in order to identify what behaviors, actions, inactions, or conditions need to be changed to prevent recurrence of similar harmful outcomes and to identify the lessons to be learned to promote the achievement of better consequences. ("Success" is defined as the near-certain prevention of recurrence.)
 * To be effective, root cause analysis must be performed systematically, usually as part of an investigation, with conclusions and root causes that are identified backed up by documented evidence. Usually a team effort is required.
 * There may be more than one root cause for an event or a problem, the difficult part is demonstrating the persistence and sustaining the effort required to determine them.
@@ -20,7 +19,10 @@
 
 * Ask Why five times – powerful technique for drilling down into problems.
 * Fishbone (Ishikawa) Diagram – looks at the big picture around the problem.
+* Define the Problem C.A.T.W.O.E
 
 ## References
 
 * [C2 Wiki: Root Cause Analysis](https://c2.com/cgi/wiki?RootCauseAnalysis)
+* [Creatingminds: C.A.T.W.O.E](http://creatingminds.org/tools/catwoe.htm)
+* [asq: fishbone diagrams](http://asq.org/learn-about-quality/cause-analysis-tools/overview/fishbone.html) 
